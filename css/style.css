@@ -1,0 +1,45 @@
+.wrapper {
+    width: 900px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+time {
+    font-size: 22px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.hint {
+    text-align: center;
+}
+
+.opacity {
+    opacity: 20%;
+}
+
+
+.ex:hover .red {
+    color: red;
+}
+
+.ex:hover .blue {
+    color: blue;
+}
+
+.ex:hover .purple {
+    color: purple;
+}
+
+.ex:hover .green {
+    color: green;
+}
+
+.ex:hover .brown {
+    color: brown;
+}
